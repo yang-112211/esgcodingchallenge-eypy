@@ -38,3 +38,7 @@ Consumers are also able to leave reviews/recommendations on products that they h
 6. Data visualization will be used to track the usage of the app, the number of posts and, tracking activity and statistics for the app.  
 ## Technology
 ## Resources
+UN
+https://www.un.org/sustainabledevelopment/sustainable-consumption-production/
+The Global Goals
+https://www.globalgoals.org/12-responsible-consumption-and-production

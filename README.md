@@ -40,5 +40,6 @@ Consumers are also able to leave reviews/recommendations on products that they h
 ## Resources
 UN
 https://www.un.org/sustainabledevelopment/sustainable-consumption-production/
+
 The Global Goals
 https://www.globalgoals.org/12-responsible-consumption-and-production

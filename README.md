@@ -22,7 +22,7 @@ The global population is estimated to grow to around 8.5 billion by the year 203
 #### How technology can help
 We can use technology to better inform ourselves with what products are sustainable and eco friendly for the planet. This may be providing information about what companies are doing to become more sustainable or what sustainable ingredients a product contains - especially now with the popularity of mobile devices, people are able to gather information on the go and when they want. By using technology to provide this information, it may influence consumer on what products to buy if they are to live a more eco friendly, sustainable lifestyle.
 ## Video
-
+https://user-images.githubusercontent.com/68637555/142682236-9310d73d-f73b-4f7b-a453-18d991079661.mp4
 
 ## The idea
 There are more and more everyday products being sustainably produced by companies for consumers who want to live a more sustainable lifestyle. Sometimes it is hard to keep up with what is available in the market. This is where the Living Green app can provide information about sustainable products on the market.
@@ -37,11 +37,13 @@ Consumers are also able to leave reviews/recommendations on products that they h
 5. Big data analytics will be used to present the most relevant items, popular items. 
 6. Data visualization will be used to track the usage of the app, the number of posts and, tracking activity and statistics for the app.  
 ## Technology
+- IBM Db2
+- 
 ## Resources
-UN
+**UN**
 
 https://www.un.org/sustainabledevelopment/sustainable-consumption-production/
 
-The Global Goals
+**The Global Goals**
 
 https://www.globalgoals.org/12-responsible-consumption-and-production

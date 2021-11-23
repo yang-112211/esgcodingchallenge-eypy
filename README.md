@@ -29,6 +29,8 @@ There are more and more everyday products being sustainably produced by companie
 Using this mobile app, consumers can see what ingredients are contained in a product. They are also able to post products that are not currently on the app. This will help other consumers to know what is available to them. This also enables the app to be kept up to date with new products.
 Consumers are also able to leave reviews/recommendations on products that they have had experiences with. This allows for honest community inputs within the app, thus potentially influencing someone to make a decision on purchasing that sustainable product. 
 
+The Living Green App Prototype: https://www.figma.com/file/8QjunTepepOFeC07kFz8eu/Living-Green-Mobile-App?node-id=0%3A1
+
 ## How it works
 1. The app implements a Community and post section as a classical DB for the community data. With like/dislike, profile pages with a rating of the posts 
 2. It also has a login portal to authenticate the users with the preferred ID provider (Google, Facebook)
